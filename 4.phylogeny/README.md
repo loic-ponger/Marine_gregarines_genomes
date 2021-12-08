@@ -31,6 +31,6 @@
 
 * partitions file
 
-* RaxML tree in newick format
+* IQTREE2 tree in newick format
 
 * MrBayes tree in newick format
